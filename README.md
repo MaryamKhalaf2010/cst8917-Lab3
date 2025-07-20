@@ -98,4 +98,4 @@ This Logic App monitors Microsoft Teams for new messages, analyzes the message s
 
 ## 7. Demo Video 🎥
 
-Watch the full demo here: _(Insert YouTube link)_
+https://youtu.be/d_xthaHMOOM
